@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.nav {
+    background-color: #1892D4;
+    color: white;
+}
+
+.header {
+
+}
+
+.projects {
+    background-color: #E2E8F0;
+}
+
+.projects > div {
+    background-color: white;
+    border-style: solid;
+    border-color: #F0B42A;
+}
